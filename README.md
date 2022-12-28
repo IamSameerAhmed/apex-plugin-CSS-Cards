@@ -5,7 +5,8 @@ This plugin is based on HTML CSS to give your finance Dashboard Summary Cards .
 <h2>Here is the quick view of plugin.</h2>
 
 
-![image](https://user-images.githubusercontent.com/121421319/209767112-c90adb0e-eca6-4557-a9c8-34398c0e6cbf.png)
+![image](https://user-images.githubusercontent.com/121421319/209770748-dcea57e7-6f8d-4e06-bd7d-89a52824262b.png)
+
 
 
 <h3>These are the attributes of Plugin<h3> .
@@ -35,6 +36,9 @@ This Option use to set the float of cards.
 
 <h2>Link.</h2>
 This option use to redirect to your cards to any application page.
+
+here is Demo.
+https://apex.oracle.com/pls/apex/r/smdashboard/css-cards-plugin/financial-statement?session=6730073886799
 
 
 
