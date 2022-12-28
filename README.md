@@ -5,7 +5,7 @@ This plugin is based on HTML CSS to give your finance Dashboard Summary Cards .
 <h2>Here is the quick view of plugin.</h2>
 
 
-![image](https://user-images.githubusercontent.com/121421319/209770748-dcea57e7-6f8d-4e06-bd7d-89a52824262b.png)
+![image](https://user-images.githubusercontent.com/121421319/209770928-b1e0ca79-1939-4bb6-b690-e356a46a1e71.png)
 
 
 
