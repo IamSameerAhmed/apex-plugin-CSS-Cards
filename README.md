@@ -7,20 +7,20 @@ This plugin is based on HTML CSS to give your finance Dashboard Summary Cards .
 
 ![image](https://user-images.githubusercontent.com/121421319/209770928-b1e0ca79-1939-4bb6-b690-e356a46a1e71.png)
 
-
-the SQl Query Format should be like 
 </br>
-<code>
-  select label,
-       value,
-       Prev_value
-  from table
- order by value
-  </code>
+</br>
+
+<h2>The SQl Query Format should be like </h2>
+</br>
+<code>select label,
+value,
+Prev_value
+from table
+order by value</code></br>
   
-<b>Label<b> is the label ...
-<b>Value<b> is the value ... and has to be of type NUMBER
-<b>Previous Value<b> Prev Value is the value on which the Percentage has been calculated ... and has to be type NUMBER
+<b>Label</b> is the label ...</br>
+<b>Value</b> is the value ... and has to be of type NUMBER</br>
+<b>Previous Value</b> Prev Value is the value on which the Percentage has been calculated ... and has to be type NUMBER</br>
 
   </br>
 
